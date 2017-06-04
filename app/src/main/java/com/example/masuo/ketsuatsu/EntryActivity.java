@@ -14,4 +14,11 @@ public class EntryActivity extends AppCompatActivity {
     }
 
 
+
+
+
+
+
+
+
 }
